@@ -10,7 +10,7 @@ Análisis y visualización de datos propios de [Chess.com](https://chess.com), o
 
 | # | Título | Herramienta | Estado |
 |---|--------|-------------|--------|
-| 01 | Evolución del rating en el tiempo | Flourish | 🚧 En progreso |
+| 01 | Evolución del rating en el tiempo | Flourish | En progreso |
 
 ## Ver el proyecto
 
@@ -37,4 +37,4 @@ No requiere autenticación para datos de perfiles públicos.
 ## Autor
 
 **Marcelo Howlin** · ITBA · Maestría en Ciencia de Datos  
-Materia: Visualización de la Información · 2025
+Materia: Visualización de la Información · 2026
